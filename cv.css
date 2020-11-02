@@ -5,6 +5,12 @@ body {
     width: 60%;
 }
 
+section {
+font-family: coldsmith-pro, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+
 .portrait {
     float: right;
 }
